@@ -45,6 +45,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ConstructorOverloading-06.cs" />
     <Compile Include="CopyConstructor-03.cs" />
     <Compile Include="DefaultConstructor-01.cs" />
     <Compile Include="ParameterizedConstructor-02.cs" />
