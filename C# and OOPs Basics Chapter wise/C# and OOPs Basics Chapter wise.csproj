@@ -45,15 +45,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ConstructorOverloading-06.cs" />
-    <Compile Include="CopyConstructor-03.cs" />
-    <Compile Include="DefaultConstructor-01.cs" />
-    <Compile Include="Encapsulation-07.cs" />
-    <Compile Include="ParameterizedConstructor-02.cs" />
-    <Compile Include="PrivateConstructor-04.cs" />
+    <Compile Include="08_Abstraction.cs" />
+    <Compile Include="06_ConstructorOverloading.cs" />
+    <Compile Include="03_CopyConstructor.cs" />
+    <Compile Include="01_DefaultConstructor.cs" />
+    <Compile Include="07_Encapsulation.cs" />
+    <Compile Include="02_ParameterizedConstructor.cs" />
+    <Compile Include="04_PrivateConstructor.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="StaticConstructor-05.cs" />
+    <Compile Include="05_StaticConstructor.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
