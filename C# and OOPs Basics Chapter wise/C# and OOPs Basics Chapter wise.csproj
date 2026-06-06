@@ -53,6 +53,7 @@
     <Compile Include="02_ParameterizedConstructor.cs" />
     <Compile Include="04_PrivateConstructor.cs" />
     <Compile Include="09_SingleLevelInheritance.cs" />
+    <Compile Include="10_MultiLevelInheritance.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="05_StaticConstructor.cs" />
