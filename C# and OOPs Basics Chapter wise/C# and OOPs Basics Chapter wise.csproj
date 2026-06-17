@@ -57,6 +57,7 @@
     <Compile Include="11_HierarchicalInheritance.cs" />
     <Compile Include="12_HybridInheritance.cs" />
     <Compile Include="13_MultipleInheritance.cs" />
+    <Compile Include="14_PublicAccessModifier.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="05_StaticConstructor.cs" />
