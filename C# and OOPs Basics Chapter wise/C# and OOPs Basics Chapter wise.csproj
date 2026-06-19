@@ -58,6 +58,7 @@
     <Compile Include="12_HybridInheritance.cs" />
     <Compile Include="13_MultipleInheritance.cs" />
     <Compile Include="14_PublicAccessModifier.cs" />
+    <Compile Include="15_ProtectedAccessModifier.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="05_StaticConstructor.cs" />
