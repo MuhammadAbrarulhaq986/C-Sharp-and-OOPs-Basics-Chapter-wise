@@ -59,6 +59,7 @@
     <Compile Include="13_MultipleInheritance.cs" />
     <Compile Include="14_PublicAccessModifier.cs" />
     <Compile Include="15_ProtectedAccessModifier.cs" />
+    <Compile Include="17_InternalAccessModifier.cs" />
     <Compile Include="16_PrivateAccessModifier.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
