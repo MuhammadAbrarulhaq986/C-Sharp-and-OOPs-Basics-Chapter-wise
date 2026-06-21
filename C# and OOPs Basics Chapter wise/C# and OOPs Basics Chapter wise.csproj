@@ -61,6 +61,7 @@
     <Compile Include="15_ProtectedAccessModifier.cs" />
     <Compile Include="17_InternalAccessModifier.cs" />
     <Compile Include="16_PrivateAccessModifier.cs" />
+    <Compile Include="18_ProtectedInternalAccessModifier.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="05_StaticConstructor.cs" />
