@@ -66,6 +66,7 @@
     <Compile Include="21_Polymorphism_MethodOverloadNumber.cs" />
     <Compile Include="22_PolymorphismMethodOverloadingbyChangingDataTypes.cs" />
     <Compile Include="23_PolymorphismMethodOverloadingbyChangingParameterOrder.cs" />
+    <Compile Include="24_BasicMethodOverriding.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="05_StaticConstructor.cs" />
