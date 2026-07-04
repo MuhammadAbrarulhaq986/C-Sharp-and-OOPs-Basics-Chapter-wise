@@ -73,6 +73,7 @@
     <Compile Include="28_SealedProperty.cs" />
     <Compile Include="29_Non-GenericCollectionsArrayList.cs" />
     <Compile Include="30_Non-GenericCollectionsHashtable.cs" />
+    <Compile Include="31_Non-GenericCollectionsStack.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="05_StaticConstructor.cs" />
