@@ -1,4 +1,5 @@
-﻿using System;
+﻿/*
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
@@ -36,3 +37,4 @@ namespace C__and_OOPs_Basics_Chapter_wise
         }
     }
 }
+ */
