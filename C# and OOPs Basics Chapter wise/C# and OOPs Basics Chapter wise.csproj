@@ -76,6 +76,7 @@
     <Compile Include="31_Non-GenericCollectionsStack.cs" />
     <Compile Include="32_Non-GenericCollectionsQueue.cs" />
     <Compile Include="33_GenericCollectionsList.cs" />
+    <Compile Include="34_GenericCollectionsDictionary.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="05_StaticConstructor.cs" />
