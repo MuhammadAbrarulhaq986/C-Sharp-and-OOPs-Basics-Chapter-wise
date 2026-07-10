@@ -79,6 +79,7 @@
     <Compile Include="34_GenericCollectionsDictionary.cs" />
     <Compile Include="35_GenericCollectionsHashSet.cs" />
     <Compile Include="36_CustomGenericImplementationsCreatingAGenericClass.cs" />
+    <Compile Include="37_CustomGenericImplementationsCreatingAGenericMethod.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="05_StaticConstructor.cs" />
